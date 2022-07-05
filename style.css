@@ -122,7 +122,7 @@ header{
 
 }
 .content{
-    margin-left: 250px;
+/*     margin-left: 250px; */
     background: url(bg1.jpg) no-repeat; 
     background-position: center;
     background-size: cover;
